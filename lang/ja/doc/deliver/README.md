@@ -147,7 +147,7 @@ void Sample::onInterstitialExit()
 
 ## 4. 表示サンプル
 
-### [Android] バナー広告サンプル
+### [Android] 表示サンプル
 
 <table>
 <tr>
@@ -160,7 +160,7 @@ void Sample::onInterstitialExit()
 </tr>
 </table>
 
-### [iOS] バナー広告サンプル
+### [iOS] 表示サンプル
 
 <table>
 <tr>
